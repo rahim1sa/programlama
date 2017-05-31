@@ -1,0 +1,55 @@
+
+
+C dili 1972-ci ilde Dennis Ritchie ve Ken Thompson 
+terefinden Bell laboratoriyalarinda hazirlanmis ve Unix emeliyyat 
+sistemini inkisaf 
+etdirmek meqsedi yaradilmisdir. "B" dilinden toremis bir dildir.C dilinden butun 
+platformalarda istifade 
+mumkundur.Bu gun istifade etdiyimiz emeliyyat sistemlerinin 
+
+95%-de C-den istifade olunur.C struktur yonumlu proqramlasdirma dilidir.C++, Java, 
+C# ve diger diller bu proqramlasdirma dilinin esasinda
+yaradilmisdir. Daha sonralar 
+C dili inkisaf etdirilerek obyekt yonumlu C++ dilini yaradilmisdir ve C dilinin 
+sonuna "++"
+elave edilomisdir
+
+.Avantajlari
+
+ ise tarixi ve ifadeli bir dildir. Az sayda 
+acar sozcuye malikdir. Meshur bir emeliyyat sistemi olan unixin temel dilidir. Ve 
+buna gore bu emeliyyat sisteminin vazkecilmez dilidir. Bununla yanasi, C basqa 
+sistemlerde de istifade edilmeye baslanmisdir ve,
+dasina bilme xususiyyitine gore, 
+bir sistem ucun yazilmis proqramlar asanca basqa sistemlere de 
+kocurule bilmekde ve 
+orada bezi deyisikliklerden sonra yigilib istifade edilmekdedirr.
+Assembly kompyuter 
+dili kodlarinin
+ insanlarin bir az daha asan anlaya bilmesi ve islemesi 
+ucun say 
+evezi herflerden ve ya sozcuklerden ibaret 
+olan bir dildir.Avantajlari ise Yazdigimiz 
+her setr 1 ile 4 arasi byte hecminde olub 
+az yer tutmus olur.
+Prosessorun gucunu en 
+yaxsi sekilde ortaya qoya bilecek yegane proqramdir.
+ Diger dillerde qarsilasilan 
+problemleri adeten assembly vasitesi ile hell edilmekdedir.
+
+Dezavantajlari ise Dilin 
+oyrenilmesi uzun zaman alir ve cox calismaq lazimdir.
+ Yazilan skriptler diger dillere 
+nisbeten daha cox setrden ibaret
+ olmus olur.
+ Yazdiginiz setrleri bir yerden sonra 
+unuda ve anlamaya bilersiz.
+Bunun ucunde kodlarin sonunda aciqlama bolumleri yazmaq 
+lazimdir.Asp.net
+
+asp.net Microsoft terefinden inkisaf etdirilmis bir veb tetbiq inkisaf 
+texnologiyasidir.
+asp.net web saytlarin ve web applicationlarin qurulmasi ucundur.
+
+asp.net asan sekilde dinamik sayt yaratmaga imkan verir.
+
